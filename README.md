@@ -7,7 +7,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div margin-bottom="10px">
+<div padding-bottom="10px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="40" height="40"/>&nbsp;

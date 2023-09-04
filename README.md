@@ -3,6 +3,7 @@
 <h3 align="center">Backend and game developer from Russia 🇷🇺</h3>
 
 ### :boy: About me :
+* backend developer
 * 16 years old from Russia
 * I solve problems on Leetcode
 * I want to learn C++

@@ -3,7 +3,11 @@
 <h3 align="center">Backend and game developer from Russia 🇷🇺</h3>
 
 ### :boy: About me :
-* Я
+* 16 years old from Russia
+* I solve problems on Leetcode
+* I want to learn C++
+* Hobby: gamedev, programming
+* Sportsman
 
 <h4>My Solved Problems on Leetcode: </h4>
 

@@ -7,7 +7,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div padding-bottom="10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="40" height="40"/>&nbsp;
@@ -23,6 +23,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<div height=5></div>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)

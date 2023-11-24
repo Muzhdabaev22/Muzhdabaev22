@@ -4,7 +4,7 @@
 
 ### :boy: About me :
 * backend developer
-* 16 years old from Russia
+* 17 years old from Russia
 * I solve problems on Leetcode
 * I want to learn C++
 * Hobby: gamedev, programming

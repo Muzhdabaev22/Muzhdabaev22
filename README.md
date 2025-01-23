@@ -6,7 +6,6 @@
 * backend developer
 * 18 years old from Russia
 * I solve problems on Leetcode
-* I want to learn C++
 * Hobby: gamedev, programming
 * Sportsman
 

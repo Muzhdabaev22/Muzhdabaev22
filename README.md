@@ -4,15 +4,11 @@
 
 ### :boy: About me :
 * backend developer
-* 17 years old from Russia
+* 18 years old from Russia
 * I solve problems on Leetcode
 * I want to learn C++
 * Hobby: gamedev, programming
 * Sportsman
-
-<h4>My Solved Problems on Leetcode: </h4>
-
-[![Muzhdabaev22's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Muzhdabaev22&theme=dark)](https://leetcode.com/Muzhdabaev22/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
